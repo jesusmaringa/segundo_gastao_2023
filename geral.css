@@ -48,10 +48,10 @@ ul {
       background-color: #bbb;
   }
   .conteudo {
-    background-color: #04AA6D;
     height: 700px;
   }
   .rodape {
     height: 30px;
     background-color: white;
+    text-align: center;
   }
