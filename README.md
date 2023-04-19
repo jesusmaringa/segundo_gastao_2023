@@ -1,1 +1,1 @@
-# segundo_gastao_2023
+# Help para os alunos.
