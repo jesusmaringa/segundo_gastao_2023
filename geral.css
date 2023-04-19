@@ -24,7 +24,10 @@ body{
  .painel li {
     float: left;
   }
-  
+  .titulo_site{
+      font-family: 'Lobster', cursive;
+      font-size: 40px;
+  }
   .painel li:last-child {
     border-right: none;
   }
